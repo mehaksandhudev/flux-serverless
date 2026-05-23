@@ -1,4 +1,4 @@
-# 🎨 FLUX Image Generator - Modal Serverless Deployment
+# Flux-Serverless: Autoscale Serverless Image Generation API
 
 Deploy FLUX.1-dev and FLUX.1-schnell image generation models on [Modal](https://modal.com) with GPU acceleration using Nunchaku quantization for faster inference.
 
