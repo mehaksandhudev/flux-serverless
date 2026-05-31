@@ -1,6 +1,5 @@
 # Flux-Serverless: Autoscale Serverless Image Generation API
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
 
 
 Deploy FLUX.1-dev and FLUX.1-schnell image generation models on [Modal](https://modal.com) with GPU acceleration using Nunchaku quantization for faster inference.
@@ -328,6 +327,16 @@ Flux-Free/
 - Use Modal secrets for all sensitive credentials
 - The bearer token protects your API from unauthorized access
 
+
+---
+
+## ? Support
+
+If this project helped you, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
+
+---
 ---
 
 ## 📝 License
