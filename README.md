@@ -349,3 +349,12 @@ This project is provided as-is for educational and personal use. FLUX models are
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
+---
+
+<div align="center">
+
+Crafted with ❤️ by **[Mehak Sandhu](https://github.com/mehaksandhudev)** • [Portfolio](https://www.mehak-sandhu.in)
+
+</div>
+
