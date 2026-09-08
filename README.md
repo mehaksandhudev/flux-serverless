@@ -332,8 +332,9 @@ Flux-Free/
 
 ## ☕ Support
 
-If this project helped you, consider buying me a coffee!
+If this project helped you, consider supporting via [PayPal](https://paypal.me/mhksandhu) or [Buy Me A Coffee](https://buymeacoffee.com/mehaksandhudev)!
 
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/mhksandhu)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
 
 ---
